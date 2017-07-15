@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Elicia Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The goal of this assignment is to understand the basics of the DOM, and how to utilize it to modify HTML elements on a web page.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://smithelicia.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The DOM Tree: each node of this tree represents a part of the document. This includes the head and body, and the subsequent nodes that are placed underneath them. Element, attribute, and text nodes are the most common nodes used in this structure.
+2. getElementById: this method is used to return an id value that was created in HTML. It returns to the user the first element in the document that has a matching id attribute.
+3. getElementsByTagName: this method is like getElementById, but it instead returns an array of elements that match a specific tag name.
